@@ -1,2 +1,1 @@
-# Az-Net
-Your Home of Enlightened Internet Activity
+This page will contain important documentation pertinent to our community.
