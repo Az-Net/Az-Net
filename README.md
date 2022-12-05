@@ -16,6 +16,8 @@ As a member of our community, you will want to know:
 -Basic [OPSEC](https://en.wikipedia.org/wiki/Operations_security)  
 -[Important Words We Use & How We Define them](https://github.com/Az-Net/Az-Net/tree/main/Definitions)  
 \
+This is a list of our matrix [Rooms](https://github.com/Az-Net/Az-Net/blob/main/Matrix/Rooms.md) and their topic of discussion.
+\
 \
 \
 If you wish to have access to all of the information contained within this repo, you can download it as a .zip file [here](https://github.com/Az-Net/Az-Net/archive/refs/heads/main.zip).  
