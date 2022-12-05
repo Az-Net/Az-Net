@@ -1,4 +1,4 @@
-# Welcome to ~Az:Net//NEW_FRIEND
+# Welcome to ~Az:Net// NEW_FRIEND
 
 We are a decentralized group of //USERS from all across the 「Net」  
 Our activities can be difficult to follow at times.
