@@ -11,12 +11,12 @@ General open comms to Everyone. Everyone must stay in this room to stay in Az:Ne
 ## Updates  
 Community-based updates. Everyone must stay in this room to stay in Az:Net  
 
-## Private  
-General encrypted comms. May not necessarily be secure.  
-  
 ## Content  
 Cool Stuff Sharing. No talking here unless it's in a Thread. Public.  
-  
+
+## Private  
+General encrypted comms. May not necessarily be secure.  
+    
 ## Occult  
 Discussions about Spirituality and occult practices.  
   
