@@ -19,7 +19,8 @@ Shut = Shadow
 # 
 
 ## AHK
-The Ahk is what the human soul looked like, according to the ancient egyptians, and using modern interpretations of their art.  
+The Ahk is what the human soul looked like, according to the ancient egyptians.  
+This depiction uses modern interpretations of their art.  
 -The Scarab represents Khet.  
 -The Pillar of Djed represents the Ib.   
 -The Solar Disk of Ra represents the Sah.  
