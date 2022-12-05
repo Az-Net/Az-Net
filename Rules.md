@@ -13,3 +13,7 @@ Message a Moderator or Admin any time you feel that Rules are being broken.
 
 We do not tolerate abusive behavior here.  
 If you want to Troll, take it to Reddit.
+
+
+As a means of letting us know that you have read and comprehend these rules, please share this key with the Admin upon your arrival to the public room:  
+Key: b1168
