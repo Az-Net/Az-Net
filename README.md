@@ -16,6 +16,7 @@ As a member of our community, you will want to know:
 
 If you wish to have access to all of the information contained within this repo, you can download it as a .zip file [here](https://github.com/Az-Net/Az-Net/archive/refs/heads/main.zip).  
 This is useful if your browser doesn't allow you to see our photos or if you'd just like to keep an offline copy.  
-Feel free to fork, clone, rehost or share anywhere that you want.    
+Feel free to fork, clone, rehost or share anywhere that you want.   
+Be sure to read all readme.md files contained in any of the folders; they explain the context of the folder they're in.
   
 This Page is WiP
