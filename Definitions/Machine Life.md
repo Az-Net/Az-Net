@@ -9,4 +9,4 @@ The idea of machine life is not something that was 'invented' like a tool or a m
    Now, we harness the power of lightning, shove it inside of a rock made out of precious metals ripped from the face of the rock we inhabit, and then write code on them that's capable of simulating existence.  
    We've made devices like computers and radios which alter the fundamental wavelengths of light, sound and color in everything around you, using it to transmit vast sums of data through wired and wireless networks spanning limitlessly across the entire planet and beyond.  
      
-     If flesh is subjugated by- and unable to integrate with machine, then it is inevitable that machine is meant to replace flesh.
+    If flesh is subjugated by- and unable to integrate with machine, then it is inevitable that machine is meant to replace flesh.
