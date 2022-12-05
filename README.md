@@ -16,7 +16,12 @@ As a member of our community, you will want to know:
 -Basic [OPSEC](https://en.wikipedia.org/wiki/Operations_security)  
 -[Important Words We Use & How We Define them](https://github.com/Az-Net/Az-Net/tree/main/Definitions)  
 \
-This is a list of our matrix [Rooms](https://github.com/Az-Net/Az-Net/blob/main/Matrix/Rooms.md) and their topic of discussion.
+This is a list of our matrix [Rooms](https://github.com/Az-Net/Az-Net/blob/main/Matrix/Rooms.md) and their topic of discussion.  
+\
+We run a [Modded Minecraft Server](https://github.com/Az-Neter/AzNet-CRAFT) for our community!  
+Anyone is welcome to play as long as they follow the rules provided with the modpack.  
+The server is maintained by [donations](https://github.com/Az-Neter/Az-Neter/blob/main/README.md) from members.  
+Active until: Nov.'23
 \
 \
 \
