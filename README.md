@@ -3,7 +3,7 @@
 We are a decentralized group of //USERS from all across the 「Net」  
 Our activities can be difficult to follow at times.
 
-To join our community, follow the link 『[here](https://matrix.to/#/#aznet-entry:matrix.org)』
+To join our community, follow the link 『[here](https://matrix.to/#/#aznet-public:matrix.org)』
 
 Our primary comms are through [Matrix](https://matrix.org/).  
 We recommend using [Gomuks](https://github.com/tulir/gomuks) as your client.
