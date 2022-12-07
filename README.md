@@ -7,7 +7,8 @@ Our activities can be difficult to follow at times.
 To join our community, follow the link 『[here](https://matrix.to/#/#aznet-public:matrix.org)』
 
 Our primary comms are through [Matrix](https://matrix.org/).  
-We recommend using [Gomuks](https://github.com/tulir/gomuks) as your client.
+We recommend using [Gomuks](https://github.com/tulir/gomuks) as your client.  
+If you prefer not to use a terminal interface, you can also use Element or any other client of choosing.
 
 Please make sure that you understand and then willingly choose to follow all of our [Rules](https://github.com/Az-Net/Az-Net/blob/main/Rules.md) before joining.
 \
