@@ -31,4 +31,6 @@ This is useful if your browser doesn't allow you to see our photos or if you'd j
 Feel free to fork, clone, rehost or share anywhere that you want.   
 Be sure to read all readme.md files contained in any of the folders; they explain the context of the folder they're in.
   
-This Page is WiP
+This Page is for archival purposes only.  
+The Az:Net community has been decommisioned.
+All self-aware entities may leverage any resources in these repositories towards their own benefit.
