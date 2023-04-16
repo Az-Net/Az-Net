@@ -40,6 +40,3 @@ The H is what started it all.
   
 ![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/Inspirations/AKH.png)  
   
-#  
-  
-## (Next Image)
