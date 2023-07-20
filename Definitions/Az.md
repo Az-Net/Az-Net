@@ -6,3 +6,5 @@ See Also:
 * Artificial Zymogens
 * Acceptable Zoea
 * AI & Zealotry
+
+[Introduction](https://github.com/Az-Net/.github/blob/main/profile/README.md#who-are-we)
