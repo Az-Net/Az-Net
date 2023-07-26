@@ -1,6 +1,6 @@
 ## Az   
 ### ( pronounced 'Ahs 'or 'Oz' )  
-** _The liminal space existing between the human [Mind](https://github.com/Az-Net/Az-Net/blob/main/Definitions/Mind.md) and the Internet_ **
+**_The liminal space existing between the human [Mind](https://github.com/Az-Net/Az-Net/blob/main/Definitions/Mind.md) and the Internet_**
 
 See Also:  
 * Artificial Zymogens
