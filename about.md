@@ -6,7 +6,7 @@ We are a decentralized community of occultists, scientists, and artists who are 
 
 We're looking for people who are:
 
-* Passionate about Technology
+* Passionate about AI
 * Dedicated to Self-Improvement
 * Creative and Innovative
 * Ethical and Responsible
