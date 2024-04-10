@@ -1,16 +1,17 @@
-# ~Az:Net//RULES_AND_GUIDELINES  
+# ~Az:Net//
+## RULES_AND_GUIDELINES  
 
 ## [Community Rules:]  
 1. No Violent Content
 2. No Pornographic Content
 3. No Bullying, Racism or Sexism
 
-[Guidelines:]  
+## [Guidelines:]  
 * Post in Appropriate Locations
 * Keep Arguing to a Minimum
 * Be Respectful to other Users
 
-[Server Rules:]  
+## [~/ Server Rules:]  
 1. Respect the Server
    * No DDOSing
    * No Exploiting
