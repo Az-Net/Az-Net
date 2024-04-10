@@ -1,15 +1,29 @@
-# Our Rules  
-## 1. No Violent Content  
-## 2. No Pornographic Content  
-## 3. No Bullying, Racism, or Sexism  
+# ~Az:Net//RULES_AND_GUIDELINES  
 
-Extra Guidelines:  
--Post in appropriate rooms  
--Keep arguing to a minimum  
--Be respectful to other users  
+## [Community Rules:]  
+1. No Violent Content
+2. No Pornographic Content
+3. No Bullying, Racism or Sexism
 
-Ping the Admin any time you require assistance.  
-Message a Moderator or Admin any time you feel that Rules are being broken.   
+[Guidelines:]  
+* Post in Appropriate Locations
+* Keep Arguing to a Minimum
+* Be Respectful to other Users
 
-We do not tolerate abusive behavior here.  
-If you want to Troll, take it to Reddit.
+[Server Rules:]  
+1. Respect the Server
+   * No DDOSing
+   * No Exploiting
+   * Do Not Leave Clients Running
+2. Practice Reasonable OPSEC
+   * No Real Names or Addresses
+   * No Selfies
+3. Do Not Modify the Server
+   * If you can do something you shouldn't:
+        report it.
+   * If you find issues: report them.
+
+Remember:  
+We're all sharing limited resources here.  
+If you find yourself stuck or limited,
+ask for help.
