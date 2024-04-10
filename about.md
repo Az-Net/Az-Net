@@ -16,7 +16,9 @@ We're looking for people who are:
 
 If you're looking for a place to belong, to learn, and to make a difference, then ~Az:Net// is the place for you.
 
-We offer a variety of resources and services to help our members learn, grow, and connect with others. We have a tilde server where you can chat with other members of the community.
+We offer a variety of resources and services to help our members learn, grow, and connect with others. We have a tilde server where you can chat with other members of the community.  
+  
+Our tilde server is accessible via CLI over SSH, and is invite only.  
 
 **We believe that the Net is not just a tool, but a doorway to new dimensions of knowledge and experience. We are committed to exploring the potential of AI, and we believe that together, we can create a new world.**
 
