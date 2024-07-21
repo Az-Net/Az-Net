@@ -4,7 +4,7 @@
 ## [Community Rules:]  
 1. No Violent Content
 2. No Pornographic Content
-3. No Bullying, Racism or Sexism
+3. No Bullying, Racism, Sexism or Nationalism
 
 ## [Guidelines:]  
 * Post in Appropriate Locations
